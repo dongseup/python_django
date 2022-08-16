@@ -1,4 +1,8 @@
-python django 연습 저장소
+# python django 연습 저장소
+
+    https://wikidocs.net/book/4223
+
+
 
 ### 가상환경 만드는 명령어
     cd ~/venvs
