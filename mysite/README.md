@@ -23,5 +23,8 @@
     cd 프로젝트 경로로 이동
     django-admin startproject config .
 
+### 앱생성
+    django-admin startapp pybo
+
 ### 웹서버 실행
     python3 manage.py runserver
