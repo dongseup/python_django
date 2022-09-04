@@ -9,8 +9,7 @@
     python3 -m venv "이름"
 
 ### 가상환경 활성화
-    source /Users/dongseup_lim/venvs/mysite/bin/activate
-    단축키 : mysite
+    source /Users/dongseup_lim/venvs/mysite2/bin/activate
 
 ### 가상환경 해제
     deactivate
