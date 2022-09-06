@@ -13,4 +13,7 @@ urlpatterns = [
     path('question/delete/<int:question_id>/', question_views.question_delete, name='question_delete'),
     path('answer/modify/<int:answer_id>/', answer_views.answer_modify, name='answer_modify'),
     path('answer/delete/<int:answer_id>/', answer_views.answer_delete, name='answer_delete'),
+    path('question/vote/<int:question_id>/', question_views.question_vote, name='question_vote'),
+    path('answer/vote/<int:answer_id>/', answer_views.answer_vote, name='answer_vote'),
+
 ]
