@@ -1,15 +1,10 @@
 from .models import Blog
 
-from rest_framework import generics
+from rest_framework import viewsets
 
 from .serializer import BlogSerializer
 
 
-class BlogList(generics.ListCreateAPIView):
-    queryset = Blog.objects.all()
-    serializer_class = BlogSerializer
-
-
-class BlogDetail(generics.RetrieveUpdateDestroyAPIView):
+class BlogViewSet(viewsets.ModelViewSet):
     queryset = Blog.objects.all()
     serializer_class = BlogSerializer
