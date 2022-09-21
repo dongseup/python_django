@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f4ad762-999f-4ea0-920b-28777ed97f45" name="Changes" comment="연습파일 머지">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clone_instagram/.idea/clone_instagram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/clone_instagram/.idea/clone_instagram.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clone_instagram/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clone_instagram/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clone_instagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clone_instagram/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clone_instagram/db.sqlite3-journal" beforeDir="false" />
-    </list>
+    <list default="true" id="4f4ad762-999f-4ea0-920b-28777ed97f45" name="Changes" comment="연습파일 머지" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +40,7 @@
       <workItem from="1663385990997" duration="1000" />
       <workItem from="1663385993489" duration="5000" />
       <workItem from="1663570113031" duration="7000" />
+      <workItem from="1663574671545" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="readme update">
       <created>1662991387016</created>
