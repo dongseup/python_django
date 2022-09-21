@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f4ad762-999f-4ea0-920b-28777ed97f45" name="Changes" comment="연습파일 머지" />
+    <list default="true" id="4f4ad762-999f-4ea0-920b-28777ed97f45" name="Changes" comment="연습파일 머지">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clone_instagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clone_instagram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clone_instagram/clone_instagram/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/clone_instagram/clone_instagram/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clone_instagram/clone_instagram/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/clone_instagram/clone_instagram/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clone_instagram/clone_instagram/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/clone_instagram/clone_instagram/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clone_instagram/templates/instagram/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/clone_instagram/templates/instagram/main.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +48,7 @@
       <workItem from="1663385993489" duration="5000" />
       <workItem from="1663570113031" duration="7000" />
       <workItem from="1663574671545" duration="15000" />
+      <workItem from="1663738813627" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="readme update">
       <created>1662991387016</created>
